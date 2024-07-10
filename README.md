@@ -1,6 +1,6 @@
 # K6 Para Testes De Performance
 
-![alt text](/Assets/image.png)
+![alt text](/Assets/k6.png)
 
 ## Topics 
 
@@ -69,6 +69,17 @@ With all these tools installed we will start our API, to start our api we will t
 ![alt text](/Assets/cmd_serverest.png)
 
 > Then we open our IDE and type the following script:
+
+https://github.com/Gabriel-Brunetto/Performance-Test-K6/tree/main/Tests
+
+<strong>NOTE: We have four (4) types of performance tests, it is recommended to study each type of test, but they all work as a form of flow along the Login, Users and Products route</strong>
+
+
+After writing the script, we will open our IDE terminal by pressing `CTRL + "` and type `K6 run <filename.js>`
+
+E obtivemos os seguintes resultados:
+
+![alt text](/Assets/metricas_API.png)
 
 
 
