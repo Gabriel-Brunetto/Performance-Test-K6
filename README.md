@@ -77,7 +77,7 @@ https://github.com/Gabriel-Brunetto/Performance-Test-K6/tree/main/Tests
 
 After writing the script, we will open our IDE terminal by pressing `CTRL + "` and type `K6 run <filename.js>`
 
-E obtivemos os seguintes resultados:
+And we obtained the following results:
 
 ![alt text](/Assets/metricas_API.png)
 
