@@ -1,4 +1,4 @@
-# K6 Para Testes De Performance
+# K6 for Performance Testing
 
 ![alt text](/Assets/k6.png)
 
